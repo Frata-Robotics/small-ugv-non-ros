@@ -3,7 +3,7 @@ Arduino sketch for Frata Robotic's small UGV (non-ROS).
 
 Hardware components:
 
-Microcontroller: https://amzn.to/4199Bdy
+Microcontroller: [https://amzn.to/4199Bdy](https://amzn.to/4mDgAEf)
 
 RC controller: https://amzn.to/4aSvlxw
 
